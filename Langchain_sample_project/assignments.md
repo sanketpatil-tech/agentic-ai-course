@@ -30,7 +30,7 @@ Using the same LangChain patterns from the reference code:
 
 ## Submission Steps
 
-1. **Fork or clone** this repo to your local machine
+1. **Fork or clone** this repo to your local computer
 2. **Create your own Python file** (e.g., `debate_coach_agent.py`) — do NOT modify `email_humanizer_agent.py`
 3. **Build your use case** following the same structure
 4. **Test it** — make sure it runs end-to-end with your OpenAI key
